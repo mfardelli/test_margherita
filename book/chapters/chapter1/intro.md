@@ -1,0 +1,2 @@
+
+This section addresses some general and basic aspects of flood defences. First, the various types of flood defences are discussed (section 1.1). The next section(1.3) addresses basic concepts and terminology for earthen dikes. Section 1.2 addresses the general principles regarding the safety of flood defences. Various functions of flood defences are outlined (1.4). The final section (1.5) summarizes some general aspects of dike reinforcements.
