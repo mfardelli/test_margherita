@@ -12,7 +12,7 @@ parts:
           - file: chapters/chapter1/1.2.md
             title: "Safety: General Principles"
           - file: chapters/chapter1/1.3/1.3.md
-            title: Dikes: Basic Technical Aspects
+            title: "Dikes: Basic Technical Aspects"
             sections:
               - file: chapters/chapter1/1.3/1.3.1.md
                 title: General
