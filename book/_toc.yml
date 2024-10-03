@@ -10,7 +10,7 @@ parts:
           - file: chapters/chapter1/1.1.md
             title: Types of Flood Defences
           - file: chapters/chapter1/1.2.md
-            title: Safety: General Principles
+            title: "Safety: General Principles"
           - file: chapters/chapter1/1.3/1.3.md
             title: Dikes: Basic Technical Aspects
             sections:
