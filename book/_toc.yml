@@ -5,7 +5,7 @@ parts:
   - caption: Basic Concepts and Background
     chapters:
       - file: chapters/chapter1/intro.md
-        title: Flood Defences: Basic Concepts
+        title: "Flood Defences: Basic Concepts"
         sections:
           - file: chapters/chapter1/1.1.md
             title: Types of Flood Defences
