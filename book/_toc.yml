@@ -36,5 +36,5 @@ parts:
               - file: chapters/chapter1/1.4/1.4.6.md
                 title: Landscape, Nature and Cultural Values
           - file: chapters/chapter1/1.5.md
-            title: Dike Reinforcements: General Aspects
+            title: "Dike Reinforcements: General Aspects"
 
