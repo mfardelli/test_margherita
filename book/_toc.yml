@@ -20,7 +20,3 @@ parts:
         - file: chapters/chapter2/2.2.md
         - file: chapters/chapter2/2.3.md
         - file: chapters/chapter2/2.4.md
-      
-    
-
-
