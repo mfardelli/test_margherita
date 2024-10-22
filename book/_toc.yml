@@ -13,6 +13,7 @@ parts:
         - file: chapters/chapter1/1.3.md
         - file: chapters/chapter1/1.4.md
         - file: chapters/chapter1/1.5.md
+<<<<<<< HEAD
 
       - file: chapters/chapter2/intro2.md
         sections:
@@ -21,4 +22,12 @@ parts:
         - file: chapters/chapter2/2.3.md
         - file: chapters/chapter2/2.4.md
 
+=======
+>>>>>>> chapter_2
 
+      - file: chapters/chapter2/intro2.md
+        sections:
+        - file: chapters/chapter2/2.1.md
+        - file: chapters/chapter2/2.2.md
+        - file: chapters/chapter2/2.3.md
+        - file: chapters/chapter2/2.4.md
