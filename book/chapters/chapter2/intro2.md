@@ -1,2 +1,2 @@
-(ch-failure-mechanisms)
-# 2. Failure Mechanisms
+(ch-failure-mechanisms)=
+# 2. Failure Mechanism
