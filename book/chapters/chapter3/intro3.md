@@ -1,10 +1,10 @@
 (ch-flood-risk-analysis)=
 # 3. Flood Risk Analysis
 
-#### Note to students
-Sections with required knowledge for the course CIE5314 Flood Defences are {numref}`Subsec:gen_intro`, {eq}`Sec:gen_approach`-{eq}`Subsec:calc_fail_prob`, {eq}`Sec:Flood_risk_ana`-{eq}`Subsec:Quant_floodrisk`, {eq}`Subsec:Gen_con`-{eq}`Subsec:SR` and {eq}`Subsec:Res_saf_stand`. The other sections provide more contextual and background information. It is still recommended to read these sections.
+## Note to students
+Sections with required knowledge for the course CIE5314 Flood Defences are Sections [3.1.1](subsec-gen-intro), [3.2](sec-gen-approach)-[3.4.2](subsec-calc-fail-prob), [3.7](sec-flood-risk-ana)-[3.7.1](subsec-quant-floodrisk), [3.8.1](subsec-gen-con)-[3.8.3](subsec-societal-risk) and [3.9.3](subsec-res-saf-stand). The other sections provide more contextual and background information. It is still recommended to read these sections.
 
-#### Learning objectives
+## Learning objectives
 After studying the chapter on flood risk analysis students are able:
 - To understand and explain the basic concepts of flood risk analysis;
 - To perform a basic / simplified flood risk analysis and quantify the risks for a given system using different risk metrics (economic risk, individual risk, societal risk);
