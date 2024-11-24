@@ -34,7 +34,7 @@ parts:
         - file: chapters/chapter3/3.9.md
         - file: chapters/chapter3/3.10.md
 
-     - file: chapters/chapter4/intro4.md
+      - file: chapters/chapter4/intro4.md
         sections:
         - file: chapters/chapter4/4.1.md
         - file: chapters/chapter4/4.2.md
