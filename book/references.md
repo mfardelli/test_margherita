@@ -67,7 +67,7 @@
 29. **HKV** (2017). *Hydra-NL Gebruikershandleiding*.  
     Retrieved from [https://www.helpdeskwater.nl/onderwerpen/applicaties-modellen/applicaties-per/omgevings/omgevings/hydra-nl-0/](https://www.helpdeskwater.nl/onderwerpen/applicaties-modellen/applicaties-per/omgevings/omgevings/hydra-nl-0/) (Accessed: 24 March 2021).
 
-30. [30]:**Nortier, I. W. & De Koning, P.** (1991). *Toegepaste Vloeistofmechanica*. ISBN: 90-401-0318-6.
+30. [ref-30]:**Nortier, I. W. & De Koning, P.** (1991). *Toegepaste Vloeistofmechanica*. ISBN: 90-401-0318-6.
 
 31. **LDZM** (1999). *Leidraad Zee- en meerdijken*. Published by: Technische Adviescommissie voor de Waterkeringen (TAW).
 
