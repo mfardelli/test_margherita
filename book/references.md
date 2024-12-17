@@ -2,9 +2,9 @@
 
 1. **Battjes, J. A.** (1971). *Run-up distributions of waves on slopes*. _proc. ASCE 97-WW1_, 91-114.
 
-2. **CIRIA and CUR and CETMEF** (2007). *The Rock Manual: The use of rock in hydraulic engineering (2nd edition)*.
+2. [ref-2]:**CIRIA and CUR and CETMEF** (2007). *The Rock Manual: The use of rock in hydraulic engineering (2nd edition)*.
 
-3. **IPCC** (2019). *Chapter 4: Sea Level Rise and Implications for Low-Lying Islands, Coasts and Communities — Special Report on the Ocean and Cryosphere in a Changing Climate*.  
+3. [ref-3]:**IPCC** (2019). *Chapter 4: Sea Level Rise and Implications for Low-Lying Islands, Coasts and Communities — Special Report on the Ocean and Cryosphere in a Changing Climate*.  
    Retrieved from [https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/) (Accessed: 21 February 2021).
 
 4. **Battjes, J. A.** (1974). *Computation of set-up, longshore currents, run-up and overtopping due to wind-generated waves*. PhD thesis, Delft University of Technology.
@@ -13,7 +13,7 @@
 
 6. **CETMEF, CIRIA, and USACE** (2013). *The International Levee Handbook*. CIRIA C 731, London, United Kingdom.
 
-7. **EurOtop** (2007). *European Overtopping Manual - Wave overtopping of sea defences and related structures: Assessment manual*.
+7. [ref-7]:**EurOtop** (2007). *European Overtopping Manual - Wave overtopping of sea defences and related structures: Assessment manual*.
 
 8. **Bazant, Z.** (1953). *Stability of a non-cohesive soil under elliptic upward seepage*. _Proc. 3rd Int Conf on Soil Mech and Found Eng. Zurich, Vol II_, 198-203.
 
@@ -42,7 +42,7 @@
 
 18. **U.S. Army Corps of Engineers (USACE)** (1956). *Investigation of underseepage and its control, lower Mississippi River levees*. Published by: U.S. Army Corps of Engineers.
 
-19. **Holthuijsen, Leo H.** (2007). *Waves in Oceanic and Coastal Waters*. Cambridge University Press.  
+19. [ref-19]:**Holthuijsen, Leo H.** (2007). *Waves in Oceanic and Coastal Waters*. Cambridge University Press.  
     DOI: [10.1017/CBO9780511618536](https://doi.org/10.1017/CBO9780511618536).
 
 20. **Van der Meer, J. W. & Bruce, T.** (2014). *New physical insights and design formulas on wave overtopping at sloping and vertical structures*. _Journal of Waterway, Port, Coastal and Ocean Engineering_.
@@ -61,10 +61,10 @@
 
 27. **LDR** (2007). *Leidraad Rivieren*. Published by: Technische Adviescommissie voor de Waterkeringen (TAW).
 
-28. **Andringa, R. J.** (1989). *Leidraad voor het ontwerpen van rivierdijken: Deel 2: Benedenrivierengebied*.  
+28. [ref-28]:**Andringa, R. J.** (1989). *Leidraad voor het ontwerpen van rivierdijken: Deel 2: Benedenrivierengebied*.  
     Retrieved from [https://repository.tudelft.nl/islandora/object/uuid:a8bccc62-d1af-4f4e-b759-69f298adf286?collection=research](https://repository.tudelft.nl/islandora/object/uuid:a8bccc62-d1af-4f4e-b759-69f298adf286?collection=research).
 
-29. **HKV** (2017). *Hydra-NL Gebruikershandleiding*.  
+29. [ref-29]:**HKV** (2017). *Hydra-NL Gebruikershandleiding*.  
     Retrieved from [https://www.helpdeskwater.nl/onderwerpen/applicaties-modellen/applicaties-per/omgevings/omgevings/hydra-nl-0/](https://www.helpdeskwater.nl/onderwerpen/applicaties-modellen/applicaties-per/omgevings/omgevings/hydra-nl-0/) (Accessed: 24 March 2021).
 
 30. [ref-30]:**Nortier, I. W. & De Koning, P.** (1991). *Toegepaste Vloeistofmechanica*. ISBN: 90-401-0318-6.
@@ -139,7 +139,7 @@
 55. **Pilarcyk, K. W.** (1998). *Dikes and Revetments*.  
     Published by: Taylor and Francis (Balkema), Rotterdam, The Netherlands.
 
-56. **Barua, Dilip K.** (2005). *Wave Hindcasting*.  
+56. [ref-56]:**Barua, Dilip K.** (2005). *Wave Hindcasting*.  
     In M. L. Schwartz (Ed.), _Encyclopedia of Coastal Science_ (pp. 1060–1062). Springer Netherlands.  
     DOI: [10.1007/1-4020-3880-1_347](https://doi.org/10.1007/1-4020-3880-1_347).
 
@@ -149,7 +149,7 @@
 58. **Kok, M., Jongejan, R., Nieuwjaar, M., & Tanczos, I.** (2016). *Grondslagen voor hoogwaterbescherming*.  
     ISBN/EAN: 978-90-8902-151-9. Published by: Ministerie van Infrastructuur en Milieu en het Expertise Netwerk Waterveiligheid.
 
-59. **Young, Ian R. & Verhagen, L. A.** (1996). *The growth of fetch-limited waves in water of finite depth. Part 1. Total energy and peak frequency*.  
+59. [ref-59]:**Young, Ian R. & Verhagen, L. A.** (1996). *The growth of fetch-limited waves in water of finite depth. Part 1. Total energy and peak frequency*.  
     _Coastal Engineering_, 29(1–2), 47–78. Published by: Elsevier.
 
 60. **Breugem, W. A. & Holthuijsen, Leo H.** (2007). *Generalized shallow water wave growth from Lake George*.  
@@ -397,7 +397,7 @@
 143. **Venema, Johannes E., Schelfhout, Harry A., & Van der Meulen, Myra D.** (2013). *Toetsmethode grienddijk Fort Steurgat, hoofdrapport en achtergrondrapport*.  
     Report.
 
-144. **TAW** (1998). *Technical report on soil structures*.  
+144. [ref-144]:**TAW** (1998). *Technical report on soil structures*.  
     Published by: Technische Adviescommissie Waterkeringen.
 
 145. **Ministerie van Infrastructuur en Milieu** (2017). *Environment and Planning Act*.  
