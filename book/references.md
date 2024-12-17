@@ -158,7 +158,7 @@
 61. **Van Leusen, B. & Van der Velden, J. W.** (1998). *Rivieren en stuwen*.  
     Published by: EPN, Educatieve Partners Nederland.
 
-62. **Kaplan, S. & Garrick, B. J.** (1981). *On the Quantitative Definition of Risk*.  
+62. [ref-62]:**Kaplan, S. & Garrick, B. J.** (1981). *On the Quantitative Definition of Risk*.  
     _Risk Analysis_, 1, 11–27.
 
 63. **De Gooijer, Vincent, Rijcken, Ties, Steward, Rex, Lanzafame, Robert, & Jonkman, Bas** (2021). *From failure to performance: Learning about levees, video*.  
@@ -206,15 +206,15 @@
 76. **Rijkswaterstaat** (2011). *Memo: Handelingsperspectief lengte-effect per vak*.  
     Published by: Ministerie van Infrastructuur en Waterstaat.
 
-77. **TAW** (1985). *Considerations of an acceptable level of risk in the Netherlands, Report by TAW working group 10 Probabilistic methods*.
+77. [ref-77]:**TAW** (1985). *Considerations of an acceptable level of risk in the Netherlands, Report by TAW working group 10 Probabilistic methods*.
 
-78. **VNK2** (2012). *Flood Risk in the Netherlands, VNK2: The method in brief*.  
+78. [ref-78]:**VNK2** (2012). *Flood Risk in the Netherlands, VNK2: The method in brief*.  
     _HB 1679805_.
 
 79. **Asselman, N. E. M. & Jonkman, S. N.** (2003). *Consequences of floods: The development of a method to estimate the loss of life*.  
     Published by: Rijkswaterstaat.
 
-80. **Benfield, AON** (2012). *Thailand 2011 floods-Event recap report-impact forecasting March 2012*.  
+80. [ref-80]:**Benfield, AON** (2012). *Thailand 2011 floods-Event recap report-impact forecasting March 2012*.  
     Published by: AON Benfield.
 
 81. **Clausen, L. K.** (1989). *Potential Dam Failure: Estimation of Consequences, and Implications for Planning*.  
@@ -225,126 +225,126 @@
 83. **CUR** (2015). *CUR (Civieltechnisch Centrum Uitvoering research en Regelgeving) Probability in Civil Engineering*.  
     _CUR rapport 190_.
 
-84. **De Bruijn, K.** (2005). *Resilience and flood risk management, a systems approach applied to lowland rivers*.  
+84. [ref-84]:**De Bruijn, K.** (2005). *Resilience and flood risk management, a systems approach applied to lowland rivers*.  
     PhD thesis, Delft University of Technology.
 
-85. **Deltaprogramma** (2014). *Deltaprogramma Veiligheid. Synthesedocument veiligheid. Achtergronddocument B1. 25 juli 2014*.
+85. [ref-85]:**Deltaprogramma** (2014). *Deltaprogramma Veiligheid. Synthesedocument veiligheid. Achtergronddocument B1. 25 juli 2014*.
 
-86. **Deltares** (2014). *Technisch-inhoudelijke uitwerking DPV 2.1*.  
+86. [ref-86]:**Deltares** (2014). *Technisch-inhoudelijke uitwerking DPV 2.1*.  
     _Werkdocument Deelprogramma Veiligheid Concept van 26 februari 2014_.
 
 87. **Dutta, D., Herath, S., & Musiake, K.** (2003). *A mathematical flood loss estimation*.  
     _Journal of Hydrology_, 24–49.
 
-88. **Eigenraam, C. J. J.** (2006). *Optimal safety standards for dikering areas*.  
+88. [ref-88]:**Eigenraam, C. J. J.** (2006). *Optimal safety standards for dikering areas*.  
     _CPB discussion paper 62 March_.
 
-89. **Eurocode** (2001). *EN 1990:2002 E, Eurocode-Basis of Structural Design, CEN, November 29, 2001*.
+89. [ref-89]:**Eurocode** (2001). *EN 1990:2002 E, Eurocode-Basis of Structural Design, CEN, November 29, 2001*.
 
-90. **Farmer, F. R.** (1967). *Siting criteria-a new approach*.  
+90. [ref-90]:**Farmer, F. R.** (1967). *Siting criteria-a new approach*.  
     _Atom 128_, 152–179.
 
-91. **Kendall, H. W., Hubbard, R. B., Minor, G. C., & Bryan, W. M.** (1997). *The Risks of Nuclear Power Reactors: A Review of the NRC Reactor Safety Study WASH-1400*.  
+91. [ref-91]:**Kendall, H. W., Hubbard, R. B., Minor, G. C., & Bryan, W. M.** (1997). *The Risks of Nuclear Power Reactors: A Review of the NRC Reactor Safety Study WASH-1400*.  
     Published by: Union of Concerned Scientists, Cambridge.
 
-92. **Havinga, F. J.** (2010). *Veiligheid Nederland in Kaart 2, Overstromingsrisico dijkring 36 Land van Heusden/de Maaskant*.  
+92. [ref-92]:**Havinga, F. J.** (2010). *Veiligheid Nederland in Kaart 2, Overstromingsrisico dijkring 36 Land van Heusden/de Maaskant*.  
     _HB 1199446_.
 
 93. **Horlacher, H. B., Heyer, T., Carstensen, D., Bielagk, U., Bieli, E., & Müller, U.** (2007). *Analysis of dyke breaks during the 2002 flood in Saxony/Germany*.
 
-94. **Hoss, F., Jonkman, S. N., Maaskant, B., & Chavosian, A.** (2012). *A comprehensive assessment of multilayered safety in flood risk management-the Dordrecht case study*.  
+94. [ref-94]:**Hoss, F., Jonkman, S. N., Maaskant, B., & Chavosian, A.** (2012). *A comprehensive assessment of multilayered safety in flood risk management-the Dordrecht case study*.  
     _In eds Floods from Risk to Opportunity 357 pp_, 0–57.
 
-95. **Jongejan, R. B., Jonkman, S. N., & Vrijling, J. K.** (2012). *The safety chain: A delusive concept*.  
+95. [ref-95]:**Jongejan, R. B., Jonkman, S. N., & Vrijling, J. K.** (2012). *The safety chain: A delusive concept*.  
     _Safety Science_, 50, 1299–1303.
 
-96. **Jongejan, R. B. & Maaskant, B.** (2015). *Quantifying flood risks in the Netherlands*.  
+96. [ref-96]:**Jongejan, R. B. & Maaskant, B.** (2015). *Quantifying flood risks in the Netherlands*.  
     Published by: Rijkswaterstaat.
 
-97. **Jonkman, S. N.** (2007). *Loss of life estimation in flood risk assessment; theory and applications*.  
+97. [ref-97]:**Jonkman, S. N.** (2007). *Loss of life estimation in flood risk assessment; theory and applications*.  
     Doctoral thesis, Delft University of Technology.
 
-98. **Jonkman, S. N.** (2009). *Flood risks and climate change-threats or opportunities for the design of multifunctional flood defences*.  
+98. [ref-98]:**Jonkman, S. N.** (2009). *Flood risks and climate change-threats or opportunities for the design of multifunctional flood defences*.  
     _BOSS Magazine_, 77–90.
 
-99. **Jonkman, S. N., Bockarjova, M., Kok, M., & Bernardini, P.** (2008). *Integrated hydrodynamic and economic modelling of flood damage in the Netherlands*.  
+99. [ref-99]:**Jonkman, S. N., Bockarjova, M., Kok, M., & Bernardini, P.** (2008). *Integrated hydrodynamic and economic modelling of flood damage in the Netherlands*.  
     _Ecological Economics_, 77–90.
 
 100. **Jonkman, S. N., Steenbergen, R. D. J. M., Morales-Nápoles, O., Vrouwenvelder, A. C. W. M., & Vrijling, J. K.** (2015). *Lecture notes CIE4130, Probabilistic Design: Risk and Reliability Analysis in Civil Engineering*.  
     Published by: Department of Hydraulic Engineering, Delft University of Technology.
 
-101. **Kind, J.** (2014). *Economically efficient flood protection standards for the Netherlands*.  
+101. [ref-101]:**Kind, J.** (2014). *Economically efficient flood protection standards for the Netherlands*.  
     _Journal of Flood Risk_, 103–117.
 
-102. **Klerk, W.** (2013). *Load interdependencies of flood defences*.  
+102. [ref-102]:**Klerk, W.** (2013). *Load interdependencies of flood defences*.  
     PhD thesis, Delft University of Technology.
 
-103. **Kok, M., Huizinga, H. J., Vrouwenvelder, A. C. W. M., & Van den Braak, W. E. W.** (2005). *Standaardmethode2005 schade en slachtoffers als gevolg van overstromingen*.  
+103. [ref-103]:**Kok, M., Huizinga, H. J., Vrouwenvelder, A. C. W. M., & Van den Braak, W. E. W.** (2005). *Standaardmethode2005 schade en slachtoffers als gevolg van overstromingen*.  
     _HKV report PR999.10-draft translation is available as: Standard Method for Predicting Damage and Casualties as a Result of Floods_.
 
 104. **Kolen, B., Maaskant, B., & Terpstra, T.** (2013). *Evacuatieschattingen Nederland; Addendum*.  
     Published by: HKV Lijn in Water.
 
-105. **Lopez, J. A.** (2006). *The multiple lines of defense strategy to sustain coastal Louisiana*.  
+105. [ref-105]:**Lopez, J. A.** (2006). *The multiple lines of defense strategy to sustain coastal Louisiana*.  
     _Workshop Proceedings Requirements for a Coast-wide Strategy to Rebuild Louisiana’s Coast_, 0–37.
 
 106. **Maaskant, B., Kolen, B., Jongejan, R., Jonkman, S. N., & Kok, M.** (2009). *Evacuatieschattingen Nederland*.  
     Published by: HKV Lijn in Water.
 
-107. **Ministerie van Infrastructuur en Milieu** (2016). *Achtergronden bij de normering van de primaire waterkeringen in Nederland*.  
+107. [ref-107]:**Ministerie van Infrastructuur en Milieu** (2016). *Achtergronden bij de normering van de primaire waterkeringen in Nederland*.  
     Published by: Rijkswaterstaat.
 
 108. **Morris, M., Dyer, M., & Smith, P.** (2007). *Management of flood embankments-good practice review*.
 
-109. **Penning-Rowsell, E. C. & Chatterton, J. B.** (1977). *The benefits of flood alleviation-a manual of assessment techniques*.  
+109. [ref-109]:**Penning-Rowsell, E. C. & Chatterton, J. B.** (1977). *The benefits of flood alleviation-a manual of assessment techniques*.  
     Published by: Saxon House.
 
-110. **PIANC** (2014). *Navigation Structures: Their Role within Flood Defence Systems-Resilience and Performance under Overloading Conditions*.  
+110. [ref-110]:**PIANC** (2014). *Navigation Structures: Their Role within Flood Defence Systems-Resilience and Performance under Overloading Conditions*.  
     _PIANC report nr 137_.
 
-111. **Pistrika, A. & Jonkman, S. N.** (2009). *Damage to residential buildings due to flooding of New Orleans after hurricane Katrina*.  
+111. [ref-111]:**Pistrika, A. & Jonkman, S. N.** (2009). *Damage to residential buildings due to flooding of New Orleans after hurricane Katrina*.  
     _Natural Hazards_, 54, 413–434.
 
 112. **Karvonen, R. A., Hepojoki, A., Huhta, H. K., & Louhio, A.** (2000). *The use of physical models in dam-break analysis*.  
     _RESCDAM Final Report, Helsinki University of Technology, Helsinki, Finland_.
 
-113. **Simonovic, S. P.** (2014). *From flood risk management to quantitative flood disaster resilience: A paradigm shift*.  
+113. [ref-113]:**Simonovic, S. P.** (2014). *From flood risk management to quantitative flood disaster resilience: A paradigm shift*.  
     _In Proc., São Paulo, Brazil_.
 
-114. **Starr, C.** (1967). *Social benefit versus technological risk*.  
+114. [ref-114]:**Starr, C.** (1967). *Social benefit versus technological risk*.  
     _Science_, 1232–1238.
 
 115. **Ter Horst, W. L. A., Jonkman, S. N., & Vrijling, J. K.** (2006). *Probabilistic analysis of safety of dikes during flood waves*.  
     _Safety and Reliability for Managing Risk, Proc. of the ESREL 2006 Conference, Estoril, Portugal_, 1–16.
 
-116. **Thieken, A., Muller, M., Kreibich, H., & Merz, B.** (2005). *Flood damage and influencing factors: New insights from the August 2002 flood in Germany*.  
+116. [ref-116]:**Thieken, A., Muller, M., Kreibich, H., & Merz, B.** (2005). *Flood damage and influencing factors: New insights from the August 2002 flood in Germany*.  
     _Water Resources Research_, 1–16.
 
-117. **Van Dantzig, D.** (1956). *Economic decision problems for flood prevention*.  
+117. [ref-117]:**Van Dantzig, D.** (1956). *Economic decision problems for flood prevention*.  
     _Econometrica_, 276–287.
 
-118. **Van Mierlo, M. C. L. M. & Vrouwenvelder, A. C. W. M.** (2007). *Assessment of flood risk accounting for river system behaviour*.  
+118. [ref-118]:**Van Mierlo, M. C. L. M. & Vrouwenvelder, A. C. W. M.** (2007). *Assessment of flood risk accounting for river system behaviour*.  
     _International Journal of River Basin Management_, 93–104.
 
-119. **Van Mierlo, M. C. L. M., Vrouwenvelder, A. C. W. M., Calle, E. O. F., Vrijling, J. K., Jonkman, S. N., De Bruijn, K., & Weerts, A. H.** (2003). *Effects of river system behaviour on flood risk (Delft: Delft Cluster)*.
+119. [ref-119]:**Van Mierlo, M. C. L. M., Vrouwenvelder, A. C. W. M., Calle, E. O. F., Vrijling, J. K., Jonkman, S. N., De Bruijn, K., & Weerts, A. H.** (2003). *Effects of river system behaviour on flood risk (Delft: Delft Cluster)*.
 
-120. **Vergouwe, VNK-eindrapportage** (2014). *VNK-Veiligheid Nederland in Kaart, Eindrapportage VNK*.
+120. [ref-120]:**Vergouwe, VNK-eindrapportage** (2014). *VNK-Veiligheid Nederland in Kaart, Eindrapportage VNK*.
 
-121. **Verheij, H. J.** (2003). *Aanpassen van het bresgroeimodel in HIS-OM, WL-Delft Hydraulic*.
+121. [ref-121]:**Verheij, H. J.** (2003). *Aanpassen van het bresgroeimodel in HIS-OM, WL-Delft Hydraulic*.
 
 122. **Vissers, P. J.** (1998). *Breach growth in sand-dikes*.  
     PhD thesis, Delft University of Technology.
 
-123. **Vrijling, J. K., Hengel, W., & Houben, R. J.** (1995). *A framework for risk evaluation*.  
+123. [ref-123]:**Vrijling, J. K., Hengel, W., & Houben, R. J.** (1995). *A framework for risk evaluation*.  
     _Journal of Hazardous Materials_, 245–261.
 
-124. **Vrijling, J. K., Hengel, W., & Houben, R. J.** (1998). *Acceptable risk as a basis for design*.  
+124. [ref-124]:**Vrijling, J. K., Hengel, W., & Houben, R. J.** (1998). *Acceptable risk as a basis for design*.  
     _Reliability Engineering and System Safety_, 141–150.
 
-125. **Slijkhuis, K. A. H., Van Gelder, P. H. A. J. M., & Vrijling, J. K.** (1997). *Optimal dike height under statistical-, damage- and construction-uncertainty*.  
+125. [ref-125]:**Slijkhuis, K. A. H., Van Gelder, P. H. A. J. M., & Vrijling, J. K.** (1997). *Optimal dike height under statistical-, damage- and construction-uncertainty*.  
     _Journal of Hazardous Materials_, 1137–1140.
 
-126. **Vrijling, J. K. & Van Gelder, P. H. A. J. M.** (1997). *The effect of inherent uncertainty in time and space on the reliability of flood protection*.  
+126. [ref-126]:**Vrijling, J. K. & Van Gelder, P. H. A. J. M.** (1997). *The effect of inherent uncertainty in time and space on the reliability of flood protection*.  
     Report.
 
 127. **Vrouwenvelder, A. C. W. M. & Vrijling, J. K.** (1998). *Collegedictaat Probabilistisch ontwerpen B3*.  
