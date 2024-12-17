@@ -2,7 +2,7 @@
 
 1. **Battjes, J. A.** (1971). *Run-up distributions of waves on slopes*. _proc. ASCE 97-WW1_, 91-114.
 
-2. (ref-2)=**CIRIA and CUR and CETMEF** (2007). *The Rock Manual: The use of rock in hydraulic engineering (2nd edition)*.
+2. <a id="ref-2"></a> **CIRIA and CUR and CETMEF** (2007). *The Rock Manual: The use of rock in hydraulic engineering (2nd edition)*.
 
 3. [ref-3]:**IPCC** (2019). *Chapter 4: Sea Level Rise and Implications for Low-Lying Islands, Coasts and Communities — Special Report on the Ocean and Cryosphere in a Changing Climate*.  
    Retrieved from [https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/) (Accessed: 21 February 2021).
