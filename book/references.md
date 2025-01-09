@@ -13,7 +13,7 @@
 
 6. **CETMEF, CIRIA, and USACE** (2013). *The International Levee Handbook*. CIRIA C 731, London, United Kingdom.
 
-7. [ref-7]:**EurOtop** (2007). *European Overtopping Manual - Wave overtopping of sea defences and related structures: Assessment manual*.
+7. <a id="ref-7"></a> **EurOtop** (2007). *European Overtopping Manual - Wave overtopping of sea defences and related structures: Assessment manual*.
 
 8. **Bazant, Z.** (1953). *Stability of a non-cohesive soil under elliptic upward seepage*. _Proc. 3rd Int Conf on Soil Mech and Found Eng. Zurich, Vol II_, 198-203.
 
