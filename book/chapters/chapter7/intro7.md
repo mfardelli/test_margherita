@@ -1,5 +1,5 @@
 (Ch:Piping)=
-# Internal erosion (piping)
+# 7. Internal erosion (piping)
 
 \begin{flushright}
 	*T. Schweckendiek*
@@ -9,19 +9,18 @@ There are many types of internal erosion which are relevant for dikes and earthe
 
 Note for students: sections with required knowledge for the course CIE5314 Flood Defences are {eq}`Sec:internalerosion1`, {eq}`Sec:internalerosion2`, {eq}`Sec:internalerosion3` and {eq}`Sec:internalerosion4`. The other sections provide additional information, and are still highly recommended to read. Note that sometimes the terms *internal erosion* and *piping* are used interchangably, which can cause confusion with the sub-mechanism also named *piping* ({numref}`sec:Bligh`--{eq}`Sec:PipingParallelSystem`).
 
-\begin{figure}[h]
+<figure>
+    <img src="./chapter7_figures/SandBoilInAction.jpg" 
+         alt="Sand boil in action" 
+         style="display: inline-block; width: 48%; height: auto;">
+    <img src="./chapter7_figures/SandBoilAfterFlood.jpg" 
+         alt="Sand boil after flood event" 
+         style="display: inline-block; width: 48%; height: auto;">
+    <figcaption style="text-align: center;">
+        Figure 7.1: Sand boils: in action (left) and after flood event (right), courtesy of Rijkswaterstaat.
+    </figcaption>
+</figure>
 
-```{figure} images/SandBoilInAction
-```
-\hspace{0.5cm}
-
-```{figure} images/SandBoilAfterFlood
-```
-\\
-    \caption{Sand boils: in action (left) and after flood event (right), courtesy of Rijkswaterstaat}
-    \label{Fig:SandBoils}
-
-\end{figure}
 
 #### Learning objectives
 After studying the stability chapter students are able to:
