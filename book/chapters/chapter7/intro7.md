@@ -7,7 +7,7 @@
 
 There are many types of internal erosion which are relevant for dikes and earthen embankments in general. This chapter is restricted to the phenomenon *backward erosion piping* (also called *under-seepage* or just *piping*), as this is the relevant type for dikes with low-permeability dike bodies. For an overview of other types, typically relevant for sand dikes, refer to the International Levee handbook {cite}`LeveeHandbook`. \\
 
-Note for students: sections with required knowledge for the course CIE5314 Flood Defences are {eq}`Sec:internalerosion1`, {eq}`Sec:internalerosion2`, {eq}`Sec:internalerosion3` and {eq}`Sec:internalerosion4`. The other sections provide additional information, and are still highly recommended to read. Note that sometimes the terms *internal erosion* and *piping* are used interchangably, which can cause confusion with the sub-mechanism also named *piping* ({numref}`sec:Bligh`--{eq}`Sec:PipingParallelSystem`).
+Note for students: sections with required knowledge for the course CIE5314 Flood Defences are [7.1](Sec:ConceptualModel), [7.2](Sec:internalerosion2), [7.3](Sec:internalerosion3) and [7.4](Sec:internalerosion4). The other sections provide additional information, and are still highly recommended to read. Note that sometimes the terms *internal erosion* and *piping* are used interchangably, which can cause confusion with the sub-mechanism also named *piping* ([7.2.4](sec:Bligh)--[7.2.6](Sec:PipingParallelSystem)).
 
 <figure>
     <img src="./chapter7_figures/SandBoilInAction.jpg" 
