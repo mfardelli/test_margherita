@@ -9,6 +9,7 @@ There are many types of internal erosion which are relevant for dikes and earthe
 
 Note for students: sections with required knowledge for the course CIE5314 Flood Defences are [7.1](Sec:ConceptualModel), [7.2](Sec:internalerosion2), [7.3](Sec:internalerosion3) and [7.4](Sec:internalerosion4). The other sections provide additional information, and are still highly recommended to read. Note that sometimes the terms *internal erosion* and *piping* are used interchangably, which can cause confusion with the sub-mechanism also named *piping* ([7.2.4](sec:Bligh)--[7.2.6](Sec:PipingParallelSystem)).
 
+(fig-sand-boils)=
 <figure>
     <img src="./chapter7_figures/SandBoilInAction.jpg" 
          alt="Sand boil in action" 
@@ -29,3 +30,5 @@ After studying the stability chapter students are able to:
 - explain and choose between the most common design options to increase a dike's resistance to backward erosion piping as well as common emergency measures in case of an imminent threat.
 
 This chapter could also serve as a background and reference document for students and professionals that want to perform safety assessments and designs of dikes for internal erosion aspects. Additional guidance related to reliability-based design is also included in {numref}`Ch:Safety_asses`.
+
+[^1]: Notice that this type of internal erosion requires a cohesive blanket in for the so-called "roofing" effect, meaning that channels can form without soil from the top (roof) filling up the channels immediately.
