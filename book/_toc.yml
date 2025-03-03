@@ -63,4 +63,8 @@ parts:
         sections:
         - file: chapters/chapter10/10.2.md
 
+      - file: chapters/chapter12/intro12.md
+        sections:
+        - file: chapters/chapter12/12.2.md
+
       - file: references.md
